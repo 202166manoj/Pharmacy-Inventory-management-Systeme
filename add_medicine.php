@@ -60,7 +60,7 @@
     <div class="container">
       <!-- header section -->
       <div class="header-section">
-        <h2><i class="fa fa-shopping-bag"></i> Add Medicine</h2>
+        <h2><i class="fa fa-shopping-bag"></i> Add  Medicine</h2>
         <button class="back-btn" onclick="window.location.href='home.php';"><i class="fa fa-arrow-left"></i> Back to Dashboard</button>
       </div>
       <!-- header section end -->
